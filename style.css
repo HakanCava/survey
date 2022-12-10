@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 70px;
+    font-weight: 300;
+}
+p{
+    font-size: 25px;
+    margin-left: 10px;
+}
+form{
+    margin-left: 10px;
+
+}
+div{
+    margin-bottom: 15px;
+}
+label{font-size: 25px;
+    display: inline-block;
+    margin-bottom: 10px;
+
+}
+.input1{
+    width: 225px;
+    padding: 7px;
+}
+select{
+    width: 225px;
+    font-size: 20px;
+}
+textarea{
+    padding:10px
+}
+.submit{
+    font-size: 15px;
+    vertical-align: bottom;
+}
